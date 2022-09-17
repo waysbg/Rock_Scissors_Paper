@@ -9,3 +9,7 @@ Source File: https://github.com/waysbg/Rock_Scissors_Paper/blob/main/rock_scisso
 ***Scissors win against paper.***<br>
 ***Paper wins against rock.***<br><br>
 *The game is played where players deliver hand signals that will represent the elements of the game: rock, paper and scissors.*<br>
+<br>
+<br>
+Life Demo:
+https://replit.com/@wasybg/Rock-Scissors-Paper#main.py
